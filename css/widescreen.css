@@ -1,0 +1,19 @@
+/*align icons*/
+
+#What .items .item {
+    display: flex;
+    text-align: left;
+}
+
+#What .items .item i {
+    padding: 1.3rem;
+    align-self: center;
+}
+
+.map {
+    width: 70%;
+}
+
+.contact-form {
+    width: 30%;
+}
